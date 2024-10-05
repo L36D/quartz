@@ -4,7 +4,7 @@ share: true
 ---
 
 
-> [!abstract] Taula de continguts
+> [!abstract]- Taula de continguts
 > ```table-of-contents
 > ```
 
