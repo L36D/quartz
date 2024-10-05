@@ -6,7 +6,6 @@ share: true
 > [!abstract]- Taula de continguts
 > ```table-of-contents
 > ```
-> 
 
 # 1. Fet literari
 
@@ -81,7 +80,7 @@ share: true
 	- Es realitzen distincions del coneixement.
 	- Es fa una classificació del saber/coneixement humà.
 3. Aparició i consolidació de la categoria d’allò estètic.
-	- Kant valora que allò estètic és allò sensible (visible, tangible).
+	- Kant valora que allò estètic és independentment allò sensible (visible, tangible).
 	- L'element estètic es convertirà en element fonamental en la concepció del món moderna y el pensament occidental.
 4. Creació d'un públic lector ampli
 	1. Tecnologia
