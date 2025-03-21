@@ -1,7 +1,8 @@
 ---
 share: true
+tags:
+  - metaphysica
 ---
-
 est in sibi le [[ipsus|ipsa]] [[aequus|aequa]] [[unus|una]] [[totus|tota]] [[completus|completa]], [[plenus|plena]], [[aeternus|aeterna]], [[immutabilis|immutabilis]] & [[atemporalis|atemporalis]].
 
 - essentia est
